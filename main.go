@@ -11,9 +11,9 @@ import (
 func main() {
     
     webhookURLs := map[string]string{
-        "desarrollo": "https://discordapp.com/api/webhooks/1349289090096304181/YeIZrmkXOAQqe1V6-OGi83Of5Q3D1-gDAyR_umnln45XE2VKrajgkpICuyk68hO1Y-kI",
-        "pruebas":    "https://discordapp.com/api/webhooks/1349288681114177536/EYCsW6KFvrgGHqL0cSwNnJkdy6Li9jgADRWPMlP8g8-My874NCI2iiEvK3mXIvqUt907",
-        "general":    "https://discordapp.com/api/webhooks/1349288135154208798/Wrre3EKCx6hZb04iG2BkV-2aBC5s_XImVNWLLMWhmvtbWDs0JMLBzOMMqN4GxhoBqYAB",
+        "desarrollo": "https://discord.com/api/webhooks/1349920173519409183/CoI6bD2KUbmIvWpWwCForLEnJi83l9PPZZlCGelGSoroPs_DFMJFWMV7XRrq3Ug7F4B3",
+        "pruebas":    "https://discord.com/api/webhooks/1349920164317237278/wmDuYSAERo0ev-e-P_88TRJf8j5XagOD0gELlL9yK5OpU22dBlQra8GChQSNBTkcExiY",
+        "general":    "https://discord.com/api/webhooks/1349964247911763980/YwVtuEJgxvWKcnttifzZI59CVVqPuEyT_B_Y0_OyDP__ewHw_wNfUcG-2OSej-L01xji",
     }
 
     
