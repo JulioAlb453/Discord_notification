@@ -16,7 +16,6 @@ func main() {
         "general":    "https://discord.com/api/webhooks/1349964247911763980/YwVtuEJgxvWKcnttifzZI59CVVqPuEyT_B_Y0_OyDP__ewHw_wNfUcG-2OSej-L01xji",
     }
 
-    
     discordAdapter := discord.NewDiscordAdapter(webhookURLs)
 
     
